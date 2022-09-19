@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+button {
+    background-color: brown;
+    border: 3px double brown;
+    padding: 1%;
+    border-radius: 3px;
+    color: white;
+    font-size: large;
+}
+button:hover{
+    background-color: rgb(207, 23, 23)
+}
+button:active {
+    border: 2px double rgb(252, 0, 0);
+}
+
+a {
+    color: black;
+}
+
+.end-el {
+    font-family:'Bungee Spice', cursive;
+}
