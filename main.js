@@ -222,7 +222,7 @@ function wrong(q) {
 function right(r) {
     if (r == 1) {
         pageDiv.innerHTML = `
-        <h1><span style="color:green;">Correct!</span>  <br> the game that created grand theft auto is Rockstar games <br> <a target="_blank" href="https://en.wikipedia.org/wiki/Grand_Theft_Auto">Source</a>  </h1>
+        <h1><span style="color:green;">Correct!</span>  <br> the company that created grand theft auto is Rockstar games <br> <a target="_blank" href="https://en.wikipedia.org/wiki/Grand_Theft_Auto">Source</a>  </h1>
         <button onclick="start(2)"> continue </button>
         `
     } else if (r == 2) {
